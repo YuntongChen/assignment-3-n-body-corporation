@@ -13,8 +13,8 @@ const config = {
 
 // Your code here
 const step = (contextWrapper, deltaT) => {
-  contextWrapper.setScale(10);
 };
+
 
 // End your code
 
